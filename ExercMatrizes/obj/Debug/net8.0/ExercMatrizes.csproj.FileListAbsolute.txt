@@ -1,0 +1,14 @@
+C:\Users\vinic\source\repos\ExercMatrizes\ExercMatrizes\bin\Debug\net8.0\ExercMatrizes.exe
+C:\Users\vinic\source\repos\ExercMatrizes\ExercMatrizes\bin\Debug\net8.0\ExercMatrizes.deps.json
+C:\Users\vinic\source\repos\ExercMatrizes\ExercMatrizes\bin\Debug\net8.0\ExercMatrizes.runtimeconfig.json
+C:\Users\vinic\source\repos\ExercMatrizes\ExercMatrizes\bin\Debug\net8.0\ExercMatrizes.dll
+C:\Users\vinic\source\repos\ExercMatrizes\ExercMatrizes\bin\Debug\net8.0\ExercMatrizes.pdb
+C:\Users\vinic\source\repos\ExercMatrizes\ExercMatrizes\obj\Debug\net8.0\ExercMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\ExercMatrizes\ExercMatrizes\obj\Debug\net8.0\ExercMatrizes.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\ExercMatrizes\ExercMatrizes\obj\Debug\net8.0\ExercMatrizes.AssemblyInfo.cs
+C:\Users\vinic\source\repos\ExercMatrizes\ExercMatrizes\obj\Debug\net8.0\ExercMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\ExercMatrizes\ExercMatrizes\obj\Debug\net8.0\ExercMatrizes.dll
+C:\Users\vinic\source\repos\ExercMatrizes\ExercMatrizes\obj\Debug\net8.0\refint\ExercMatrizes.dll
+C:\Users\vinic\source\repos\ExercMatrizes\ExercMatrizes\obj\Debug\net8.0\ExercMatrizes.pdb
+C:\Users\vinic\source\repos\ExercMatrizes\ExercMatrizes\obj\Debug\net8.0\ExercMatrizes.genruntimeconfig.cache
+C:\Users\vinic\source\repos\ExercMatrizes\ExercMatrizes\obj\Debug\net8.0\ref\ExercMatrizes.dll
